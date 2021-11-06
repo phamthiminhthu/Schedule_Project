@@ -1,9 +1,17 @@
 .image-main-web{
-    width: 60px;
-    height: auto; 
-    border: 1px solid gray; 
-    border-radius: 50%;
+    width: 40px;
 }
+
+header .name-page{
+    font-size: 21px;
+    color: wheat;
+    line-height: 1;
+    letter-spacing: -2px;
+    font-family: monospace;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
 
 header{
     background: #e39530;
