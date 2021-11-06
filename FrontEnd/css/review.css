@@ -1,0 +1,71 @@
+main .list-review .list-review-content{
+    width: 85%;
+    margin: 0 auto;
+
+}
+main .list-review .list-review-content .card{
+    margin-right: 10px;
+}
+main .list-review .list-review-content .item .card-title img{
+     width: 60px;
+     border: 1px solid grey;
+     border-radius: 50%;
+}
+
+
+main .list-review .list-review-content .item .card-title ul li a i{
+    font-size: 15px;
+    color: yellow;
+
+}
+main .list-review .list-review-content .item .card-title p{
+    font-size: 17px;
+    line-height: 2;
+    font-family: cursive;
+    font-weight: bold;
+    letter-spacing: -1px;
+    color: white;
+}
+
+main .list-review .list-review-content .item .card-text{
+    font-family: auto;
+    letter-spacing: -0.5px;
+    font-size: 18px;
+    line-height: 1.4;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    display: -webkit-box;
+    height: 100px;
+
+}
+
+.owl-nav button {
+    display: none !important;
+}
+main{
+    background-image: url("https://i.pinimg.com/originals/b0/4d/3a/b04d3a0946bbe86a2722ce7fc2f4f472.gif");
+}
+
+.list-review .theme-review h3{
+    font-size: 26px;
+    font-family: emoji;
+    line-height: 2;
+    font-weight: bold;
+    letter-spacing: -1px;
+    border: 0px;
+    background: lightblue;
+    border-radius: 10px;
+    width: 80%;
+    margin: 0 auto;
+    color: red;
+}
+
+
+footer h3{
+    font-size: 20px;
+    font-family: auto;
+    font-weight: bold;
+    margin-top: 50px;
+    letter-spacing: -1px;
+}

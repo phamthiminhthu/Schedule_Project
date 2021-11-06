@@ -1,0 +1,61 @@
+/* css header */
+.image-homepage .gif-school img{
+    width: 400px;
+    height: 400px;
+    margin-left: 30px;
+}
+.image-homepage .gif-child img{
+    width: 300px ;
+    height: auto;
+    margin-right: -50px;
+    margin-top: -150px;
+    border-radius: 50%;
+}
+.image-homepage .title-sentence{
+    margin-top: 100px;
+    margin-left: 30px;
+}
+.image-homepage .title-sentence h1{
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 50px;
+    letter-spacing: -2px;
+    color: white;
+}
+
+.image-homepage .title-sentence h3{
+    font-size: 26px;
+    line-height: initial;
+    letter-spacing: -1px;
+    font-weight: 200;
+    font-family: fantasy;
+    color: white;
+}
+
+/* css main */
+
+
+
+main .list-left{
+    border-right: 1px solid black;
+}
+.list-left h3 i{
+    font-size: 28px;
+    margin-top: 9px;
+    background: #cfd3df;
+}
+.list-left::after {
+    display: inline-block;
+    content: "";
+    border-top: 2px solid black;
+    width: 8rem;
+    margin: 0px 49px;
+    transform: translateY(-47px);
+}
+
+main .col-10 h3{
+    font-family: fantasy;
+    font-size: 31px;
+    font-weight: bold;
+    color: #e71111;
+}

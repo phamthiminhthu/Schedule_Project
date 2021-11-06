@@ -1,0 +1,38 @@
+#background-themes {
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+      
+    /* Preserve aspet ratio */
+    min-width: 100%;
+    min-height: 100%;
+
+  }
+  .form-sign-up{
+    margin: 0 auto; 
+    height: 500px; 
+    margin-top: 150px;
+  }
+
+  .form-sign-up .signUp form input{
+    border-right: 0px;
+    padding: 9px;
+    font-size: 15px;
+    letter-spacing: -0.5px;
+    font-family: emoji;
+  }
+
+  .form-sign-up .signUp h3{
+    font-size: 26px;
+    letter-spacing: -1px;
+    font-family: emoji;
+    font-weight: bold;
+  }
+
+  .form-sign-up .login-direct{
+    font-size: 15px;
+    line-height: 2;
+    font-family: fangsong;
+    font-weight: 550;
+    letter-spacing: -0.5px;
+  }

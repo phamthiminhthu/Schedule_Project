@@ -1,0 +1,13 @@
+.image-main-web{
+    width: 60px;
+    height: auto; 
+    border: 1px solid gray; 
+    border-radius: 50%;
+}
+
+header{
+    background: #e39530;
+}
+header nav{
+    background-color:  #e39530;
+}
