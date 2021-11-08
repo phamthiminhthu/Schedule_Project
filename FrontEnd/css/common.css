@@ -1,8 +1,12 @@
+input:focus{
+   border-color: #ced4da !important;
+   box-shadow: none !important;
+}
 .image-main-web{
     width: 40px;
 }
 
-header .name-page{
+ .name-page{
     font-size: 21px;
     color: wheat;
     line-height: 1;

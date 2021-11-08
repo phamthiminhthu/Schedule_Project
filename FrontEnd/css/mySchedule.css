@@ -54,7 +54,7 @@ header .modal .modal-header{
     background-color: #e39530;
 }
 header .modal .modal-footer .content{
-    height: 435px;
+    height: 450px;
     overflow: scroll;
 }
 header table td a{
